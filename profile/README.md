@@ -1,6 +1,6 @@
 # akadima&#912;koi
 
-<figure><img src="./assets/odin.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/odin.jpeg" alt=""><figcaption></figcaption></figure>
 
 Prometheus erat Titanus qui ignem a deis Olympiis furatus est et hominibus donavit. Hoc dono homines sapientiam et scientiam adepti sunt, quas dii sibi reservare volebant. Ignis lucem et facultatem ad mundum transformandum significabat.
 
